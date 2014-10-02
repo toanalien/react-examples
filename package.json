@@ -1,0 +1,23 @@
+{
+  "name": "react-examples",
+  "version": "0.1.0",
+  "description": "A series of RectJS examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radubrehar/react-examples.git"
+  },
+  "keywords": [
+    "react",
+    "example",
+    "examples"
+  ],
+  "author": "Radu Brehar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radubrehar/react-examples/issues"
+  }
+}
